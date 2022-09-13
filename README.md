@@ -1,17 +1,6 @@
 # bikesharing
 
-The written analysis has the following:
 
-Overview of the statistical analysis:
-
-The purpose of the analysis is well defined. (5 pt)
-Results:
-
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
-Summary:
-
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
 
 ## Overview
 
@@ -30,4 +19,12 @@ Finally, the last visualization on the page shows utilization by hour of the day
 
 The second page of our story delves a little deeper into usage, breaking down rides into days of the week. 
 
-Our first visualization 
+Our first visualization allows us to drill-down into the weekday trips per hour by the gender of the rider. We can see that the intensity of usage for each gender is roughly the same -- here I mean we see the same usage intensities increasing on the same hours of the same days -- but we simply have *more* women using than unknown genders, and *more* men than women. For example, 8AM on Thursday is a heavy usage time, as well as 6PM on Thursday, across all gender types. 
+
+These usage trends are aggregated for all genders in the chart below, "Weekday Trips per Hour."
+
+Finally, in the "User Trips by Gender by Weekday," we get to see a gender/weekday breakdown by User Type, Customer vs. Subscriber. 
+
+## Summary
+
+There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
