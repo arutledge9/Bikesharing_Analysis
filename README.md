@@ -27,4 +27,6 @@ Finally, in the "User Trips by Gender by Weekday," we get to see a gender/weekda
 
 ## Summary
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+Overall, our results show that in NYC, the bikesharing program is enormously popular in the month of August, with especially heavy use among men. It has consistent use from morning until evening, and hits two peaks every morning and evening. Weekend hours, as one would expect, have more consistent usage throughout the day, as opposed to heavily concentrated peak AM/PM times. Subscriber User Types are the types of users most desired, as these users are the most likely to utilize the service most often. Finally, the program should be structred to expect the majority of trips to fall under 30 minutes (and likely, under 20). 
+
+For additional exploration, it would be useful to look at the length of trips during August. A visualization of length of trips by user would be excellent, as well as a length of trips by user by gender. For planning purposes, I think it would also be appropriate to look at a length of trips by user gender by day as well, so we could have an expectation of how rides differ on weekends. We already know the weekends demand a more consistent usage throughout the day, but do their rides demand a longer duration or a longer distance as well, and would they require additional planning? 
